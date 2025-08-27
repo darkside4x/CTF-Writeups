@@ -1,10 +1,8 @@
 # LITCTF 2025 — Crypto: Encryption Two Ways
 
 **Category:** Crypto  
-**Points:** 345  
-**Solves:** 11  
 **Author:** hihitherethere  
-
+**If first solved:** 
 ---
 
 ## Challenge Description
@@ -85,7 +83,8 @@ def main():
             break
 if __name__ == "__main__":
     main()
-'''
+
+```
 ---
 
 ## Running the Script
